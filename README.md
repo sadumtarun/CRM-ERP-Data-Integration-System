@@ -1,9 +1,10 @@
 
 
-![DWH - Poster](https://github.com/user-attachments/assets/062bfca5-f4c0-4a29-a13c-beaa77f15181)
+<img width="3347" height="1650" alt="35" src="https://github.com/user-attachments/assets/44deb733-0627-43f3-8134-6718eab7b6c1" />
 
 
-# CRM and ERP Data Integration System
+
+# CRM & ERP Data Integration System
 
 This project involves the design and implementation of an Enterprise Data Warehouse (EDW) to integrate data from multiple operational source systems, including `Customer Relationship Management` - (CRM) and `Enterprise Resource Planning` - (ERP) platforms. The goal is to provide a single source of truth for business analytics, reporting, and decision-making.
 
