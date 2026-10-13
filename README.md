@@ -1,8 +1,5 @@
 
-
 <img width="3347" height="1650" alt="35" src="https://github.com/user-attachments/assets/44deb733-0627-43f3-8134-6718eab7b6c1" />
-
-
 
 # CRM & ERP Data Integration System
 
